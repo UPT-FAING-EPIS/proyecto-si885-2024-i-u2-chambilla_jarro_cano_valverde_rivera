@@ -16,3 +16,16 @@
 ## Diagrama de arquitectura del proyecto:
 
 ![diagrana](media/DiagramaArquitecturaAWS.png)
+
+### Dashboard de la métrica de Partidas salariales:
+
+![diagrana](media/PartidasSalariales.png)
+
+### Dashboard de la métrica de  Ordenes:
+
+![diagrana](media/Ordenes.png)
+
+### Dashboard de la métrica de Costos de Telefonía:
+
+![diagrana](media/CostosTelefonia.png)
+
