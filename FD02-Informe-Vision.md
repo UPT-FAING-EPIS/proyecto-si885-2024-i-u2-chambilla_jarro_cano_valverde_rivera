@@ -17,11 +17,11 @@ Curso: *Inteligencia de Negocios*
 Docente: *Ing. Patrick Jose Cuadros Quiroga*
 
 Integrantes:
-**-*Rivera Mendoza Jhonny  ***
--*Cano Sucso Anthony Alexander*
--*Jarro Cachi Jose Luis*
--*Valverde Zamora Jean Pier Elias*
--*Chambilla Zuñiga Josue*
+- *Rivera Mendoza Jhonny*
+- *Cano Sucso Anthony Alexander*
+- *Jarro Cachi Jose Luis*
+- *Valverde Zamora Jean Pier Elias*
+- *Chambilla Zuñiga Josue*
 
 
 **Tacna – Perú**
