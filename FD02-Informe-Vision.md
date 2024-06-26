@@ -17,7 +17,7 @@ Curso: *Inteligencia de Negocios*
 Docente: *Ing. Patrick Jose Cuadros Quiroga*
 
 Integrantes:
--*Rivera Mendoza Jhonny  *
+**-*Rivera Mendoza Jhonny  ***
 -*Cano Sucso Anthony Alexander*
 -*Jarro Cachi Jose Luis*
 -*Valverde Zamora Jean Pier Elias*
